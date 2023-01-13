@@ -54,7 +54,7 @@ h2 {
   font-weight: 900;
   letter-spacing: 0.2rem;
   margin: 1rem;
-  background-image: url('/image/text_back.png');
+  background-image: url('../image/text_back.png');
   background-size: 150% 100%;
   color: transparent;
   -webkit-background-clip: text;
@@ -112,7 +112,7 @@ h2 {
 }
 
 .program-sect {
-  background-image: url(/image/prog-bg-04.png);
+  background-image: url('../image/prog-bg-04.png');
 }
 
 .program {

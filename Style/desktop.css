@@ -2,7 +2,7 @@
   .main-menu {
     padding: 9%;
     background-color: rgb(229, 234, 234);
-    background-image: url(/image/background/desktop-bg-fa2.png);
+    background-image: url('../image/background/desktop-bg-fa2.png');
   }
 
   .name,
