@@ -29,7 +29,7 @@ const projects = [
     description:
           'Ministry of Innovation and Technology ',
     'image icon': './image/chess.jpg',
-    'image mobile': './image/Getahun-Mekuria-150x150.JPG',
+    'image mobile': './image/Getahun-Mekuria-150x150.jpg',
     id: 0,
   },
   {
