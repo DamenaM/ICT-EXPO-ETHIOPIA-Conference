@@ -52,7 +52,7 @@ capstone project - ICT EXPO Conference page
 > Link to deployed project.
 
 - [Live Demo Link](https://damenam.github.io/ICT-EXPO-ETHIOPIA-Conference)
-- [videos Link](https://www.loom.com/share/04eed985fdfd4a2a83b10d548dd91ef0))
+- [videos Link](https://www.loom.com/share/4201060ababd43d78bf09fa3050b9e95))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ Feel free to check the [issues page](https://github.com/DamenaM/ICT-EXPO-ETHIOPI
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Kiju Shin GUI Designer Seoul, Korea).
+> I would like to thank (Cindy Shin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
