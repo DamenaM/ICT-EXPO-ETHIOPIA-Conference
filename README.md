@@ -51,7 +51,8 @@ capstone project - ICT EXPO Conference page
 
 > Link to deployed project.
 
-- [Live Demo Link](https://damenam.github.io/MihertabDamena.github.io)
+- [Live Demo Link](https://damenam.github.io/ICT-EXPO-ETHIOPIA-Conference)
+- [videos Link](https://www.loom.com/share/4d9465cde3d14d35bfeb8f6aa7012011)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +72,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``git clone `https://github.com/DamenaM/setup-and-mobile-first-project.git`
+``git clone `https://github.com/DamenaM/ICT-EXPO-ETHIOPIA-Conference.git`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +97,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DamenaM/setup-and-mobile-first-project.git).
+Feel free to check the [issues page](https://github.com/DamenaM/ICT-EXPO-ETHIOPIA-Conference.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
