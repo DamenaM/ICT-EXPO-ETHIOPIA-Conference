@@ -116,7 +116,7 @@
   }
 
   .linklist {
-    color: black;
+    color: #272a31;
   }
 
   .nav-bar {
@@ -170,6 +170,10 @@
   }
 
   .featur-section {
+    display: flex;
+  }
+
+  .features {
     display: flex;
   }
 
