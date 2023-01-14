@@ -66,7 +66,6 @@ projects.forEach((element, k) => {
   const projectpopupCard = document.createElement('div');
 
   const cardDetails = `<section class="features">
-  
       <div class="feature">
           <div class="feature-img">
               <img class="image-icon" src="${projects[k]['image icon']}" alt="">
